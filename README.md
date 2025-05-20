@@ -4,3 +4,4 @@ A collection of Python assignments from the Python Data Structures course (Cours
 - **Lesson 1: extract_number.py** - Extracts numbers from a string using loops.
 - **Assignment 7.1: assignment7_1.py** - Reads a file (mbox-short.txt) and prints lines in uppercase.
 - **Assignment 7.2: assignment 7_2.py** - Prompts for a file name, reads the file, and extracts floating-point numbers from lines starting with "X-DSPAM-Confidence:", and computes their average.
+- **scalar_multiply_khan.py: scalar_multiply_khan.py** - Visualizes vector multiplication using 'numpy' and 'matplotlib', plotting a vector and its scalar multiple as arrows.
