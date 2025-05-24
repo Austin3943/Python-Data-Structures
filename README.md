@@ -16,6 +16,7 @@ A collection of Python assignments from the Python Data Structures course (Cours
 - **Assignment 7.1: assignment7_1.py** - Reads a file (mbox-short.txt) and prints lines in uppercase.
 - **Assignment 7.2: assignment 7_2.py** - Prompts for a file name, reads the file, and extracts floating-point numbers from lines starting with "X-DSPAM-Confidence:", and computes their average.
 - **Assignment 8.4: assignment 8_4.py** - Reads a file, collects unique words, sorts them, and prints the lists.
+- **Assignment 8.5: assignment 8_5.py** - Counts lines starting with "From ", extracts the second word, and prints the total count.
 
 - # Additional Projects:
 - These are standalone projects that apply Python to various topics, showcasing my growing skills.
