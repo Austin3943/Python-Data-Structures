@@ -22,3 +22,4 @@ A collection of Python assignments from the Python Data Structures course (Cours
 - These are standalone projects that apply Python to various topics, showcasing my growing skills.
 
 - "scalar_multiply_khan.py" - Performs scalar multiplication on a vector 'w = [1, 4]' with scalar '3' using 'numpy', then visualizes both vectors as arrows using 'matplotlib'. It includes a grid, axes, legend, and title for clarity.
+- "word_analysis.py" - Counts word frequencies and groups by length using .get() from Chapter 9.
