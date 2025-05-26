@@ -18,6 +18,7 @@ A collection of Python assignments from the Python Data Structures course (Cours
 - **Assignment 8.4: assignment 8_4.py** - Reads a file, collects unique words, sorts them, and prints the lists.
 - **Assignment 8.5: assignment 8_5.py** - Counts lines starting with "From ", extracts the second word, and prints the total count.
 - **Assignment 9.4: email_counter.py** - Counts email senders from mbox-short.txt and finds the most prolific committer using dictionaries.
+- **Assignment 10.2: count_hours.py** - Reads through the 'mbox-short.txt' file, extracts the hour from each email's timestamp, and generates a sorted count of emails by hour. 
 - # Additional Projects:
 - These are standalone projects that apply Python to various topics, showcasing my growing skills.
 
