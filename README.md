@@ -12,12 +12,6 @@ I'm a beginner learning Python step by step. This repo helps me stay organized a
 - **Outputs/**: Output files like images.
 - **NewCourseAssignments/**: Assignments for my new course will go here.
 
-# Table of Contents
--[Python-Learning-2025](#python-learning-2025)
--[Additional Projects](#additional-projects)
-
-# Python-Learning-2025
-A collection of Python assignments from the Python Data Structures course (Coursera, Python for everybody Specialization).
 
 - **Lesson 1: extract_number.py** - Extracts numbers from a string using loops.
 - **Assignment 7.1: assignment7_1.py** - Reads a file (mbox-short.txt) and prints lines in uppercase.
@@ -26,5 +20,5 @@ A collection of Python assignments from the Python Data Structures course (Cours
 - **Assignment 8.5: assignment 8_5.py** - Counts lines starting with "From ", extracts the second word, and prints the total count.
 - **Assignment 9.4: email_counter.py** - Counts email senders from mbox-short.txt and finds the most prolific committer using dictionaries.
 - **Assignment 10.2: count_hours.py** - Reads through the 'mbox-short.txt' file, extracts the hour from each email's timestamp, and generates a sorted count of emails by hour. 
-- "scalar_multiply_khan.py" - Performs scalar multiplication on a vector 'w = [1, 4]' with scalar '3' using 'numpy', then visualizes both vectors as arrows using 'matplotlib'. It includes a grid, axes, legend, and title for clarity.
-- "word_analysis.py" - Counts word frequencies and groups by length using .get() from Chapter 9.
+- **scalar_multiply_khan.py** - Performs scalar multiplication on a vector 'w = [1, 4]' with scalar '3' using 'numpy', then visualizes both vectors as arrows using 'matplotlib'. It includes a grid, axes, legend, and title for clarity.
+- **word_analysis.py** - Counts word frequencies and groups by length using .get() from Chapter 9.
