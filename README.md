@@ -12,7 +12,7 @@ I'm a beginner learning Python step by step. This repo helps me stay organized a
 - **Outputs/**: Output files like images.
 - **NewCourseAssignments/**: Assignments for my new course will go here.
 
-
+# My Python 2025 Learning Path - Assignment Overview:
 - **Lesson 1: extract_number.py** - Extracts numbers from a string using loops.
 - **Assignment 7.1: assignment7_1.py** - Reads a file (mbox-short.txt) and prints lines in uppercase.
 - **Assignment 7.2: assignment 7_2.py** - Prompts for a file name, reads the file, and extracts floating-point numbers from lines starting with "X-DSPAM-Confidence:", and computes their average.
