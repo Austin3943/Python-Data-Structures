@@ -22,3 +22,4 @@ I'm a beginner learning Python step by step. This repo helps me stay organized a
 - **Assignment 10.2: count_hours.py** - Reads through the 'mbox-short.txt' file, extracts the hour from each email's timestamp, and generates a sorted count of emails by hour. 
 - **scalar_multiply_khan.py** - Performs scalar multiplication on a vector 'w = [1, 4]' with scalar '3' using 'numpy', then visualizes both vectors as arrows using 'matplotlib'. It includes a grid, axes, legend, and title for clarity.
 - **word_analysis.py** - Counts word frequencies and groups by length using .get() from Chapter 9.
+- **extract_data_regex.py** - Uses regular expressions to extract email addresses, numbers, and URLs from a sample text.
